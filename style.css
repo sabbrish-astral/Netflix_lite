@@ -1,0 +1,59 @@
+body{
+	background-color:black;
+}
+h1{
+	color: darkred;
+	padding-left:20px;
+	padding-top:0.1px;
+	font-size:30px;
+}
+p{
+	font-size:20px;
+	line-height:1.6em;
+	background-color: white;
+	color:red;
+	border:red 2px solid;
+}
+a:hover{
+	color:orange;
+}
+a:active{
+	color: green;
+}
+hr{
+	color:darkgray;
+	height:5px;
+	background-color:purple;
+}
+.container{
+	margin: auto;
+	width:80%;
+}
+label{
+	color: darkred;
+	font-size:20px;
+}
+.f1 label{
+	display: block;
+}
+img{
+	padding-left: 30px;
+}
+.container table{
+	color:darkblue;
+}
+a{
+	text-decoration:none;
+}
+.media{
+	border:red 2px solid;
+	border-radius:20px;
+	width: 80%;
+	margin:auto;
+}
+
+.media h2{
+	padding-bottom:5px;
+	border-bottom: white 2px dotted;
+}
+
